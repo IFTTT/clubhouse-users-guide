@@ -40,7 +40,7 @@ ClubHouse allows us to group and track Stories \(the work we do\) in many differ
 
 ### Timeboxes
 
-IFTTT timeboxes work  three main timeboxes that can be used to group work by time are illustrated below:
+We use several different timeboxes at IFTTT to track work in the time domain: Impact Cycles, Epics and Sprints.
 
 ![](https://lh4.googleusercontent.com/fcF__Q6NQb4MTH6M5Cls0W9aB77UI1pDps9TqqH3pA0VOZi-839FxhEmSHDPCEC6oQ3W6YDj5j0rMIeAvA1Z3HwNNqwgwiKEHUpgKZOjglPW3zuHWb9HSWnIjP9j-e7epPEnc5wf)
 
