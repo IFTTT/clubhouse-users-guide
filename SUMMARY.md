@@ -8,5 +8,4 @@
 * [ClubHouse Sprint](clubhouse-sprint.md)
 * [ClubHouse Stories](clubhouse-stories.md)
 * [FAQ](faq.md)
-* [Estimating](estimating.md)
 
