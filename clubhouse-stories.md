@@ -2,7 +2,7 @@
 
 ## ClubHouse Story == IFTTT Story
 
-“Stories are the standard unit of work in Clubhouse. Stories are where collaboration and documentation for said unit of work happens.”
+“Stories are the standard unit of work in Clubhouse. Stories are where collaboration and documentation for said unit of work happens.” - [ClubHouse](https://help.clubhouse.io/hc/en-us/articles/360016199771-What-is-a-Story-)
 
 Stories come in various flavors as indicated by the Type attribute:
 
@@ -39,5 +39,7 @@ Stories come in various flavors as indicated by the Type attribute:
 * Stories must be linked to a requestor
   * The person most likely to be able to talk to the history of the story
 * Stories must be linked to one or more owners
-  * Key stakeholders of the story
+  * All key stakeholders of the story
+    * Who is waiting for this story to be completed?
+  * If the story is in progress, the engineer responsible for implementing the story must be an owner
 
