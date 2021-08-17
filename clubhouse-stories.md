@@ -6,17 +6,19 @@
 
 Stories come in various flavors as indicated by the Type attribute:
 
-* Feature \(& Enhancement\)
+* Feature \(or Enhancement\)
   * Something new and/or improved
   * Typically flows from product team
-* Bug \(& Fires\)
+* Bug \(or Fire\)
   * Something broken and affecting user experience directly
   * Typically flows from support or testing issues
-* Chore \(Tech Debt\)
+* Chore \(aka Tech Debt\)
   * Something old and/or busted that we can live with… but shouldn’t.
   * Typically originates in engineering
 
-#### ClubHouse Story Rules
+### ClubHouse Story Rules
+
+#### State
 
 * Stories should be small enough to fit into ½ of a sprint max
   * Break up stories when they’re too big and/or convert to an epic
