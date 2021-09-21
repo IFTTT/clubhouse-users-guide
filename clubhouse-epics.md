@@ -1,8 +1,8 @@
-# ClubHouse Epics
+# Shortcut Epics
 
-## ClubHouse Epic == IFTTT Epic
+## Shortcut Epic == IFTTT Epic
 
-“An Epic is a collection of Stories that represent larger initiatives.” - [ClubHouse](https://help.clubhouse.io/hc/en-us/articles/360017524632-What-is-an-Epic-#:~:text=An%20Epic%20is%20a%20collection,cross%2Dfunctional%20teams%20to%20collaborate.)
+“An Epic is a collection of Stories that represent larger initiatives.” - [Shortcut](https://help.shortcut.com/hc/en-us/articles/360017524632-What-is-an-Epic-#:~:text=An%20Epic%20is%20a%20collection,cross%2Dfunctional%20teams%20to%20collaborate.)
 
 Epics are buckets used to collect stories in one of two ways:
 
@@ -14,7 +14,7 @@ Epics are buckets used to collect stories in one of two ways:
    * These epics are implemented as a standard set of buckets to collect stories that do not relate to a specific initiative, such as: bugs, fires, tech debt, small enhancements, etc
    * These epics that act as buckets for stories that are typically one-off work items
 
-## ClubHouse Epic Rules
+## Shortcut Epic Rules
 
 ### Initiative Buckets
 

@@ -2,15 +2,15 @@
 
 ## Why do we need this guide?
 
-Communication is by far the most important capability that ClubHouse provides. ClubHouse is the most important communication tool that we have at IFTTT. If Slack, Gmail, SMS, VoIP and all other communication methods are not available, our business should be able to keep moving forward with ClubHouse. At least temporarily. 😉
+Communication is by far the most important capability that Shortcut provides. Shortcut is the most important communication tool that we have at IFTTT. If Slack, Gmail, SMS, VoIP and all other communication methods are not available, our business should be able to keep moving forward with Shortcut. At least temporarily. 😉
 
-Visibility is another _very_ important capability that ClubHouse provides. Though, it's important to understand that the visibility that ClubHouse provides depends on us using ClubHouse in a consistent way.
+Visibility is another _very_ important capability that Shortcut provides. Though, it's important to understand that the visibility that Shortcut provides depends on us using Shortcut in a consistent way.
 
-In order to aggregate ClubHouse data, the attributes related to the entities in the data must have consistent semantics. This document defines the semantics in a way that makes sense to the IFTTT team and sets some basic rules to ensure data consistency.
+In order to aggregate Shortcut data, the attributes related to the entities in the data must have consistent semantics. This document defines the semantics in a way that makes sense to the IFTTT team and sets some basic rules to ensure data consistency.
 
-## Mapping IFTTT Concepts to ClubHouse
+## Mapping IFTTT Concepts to Shortcut
 
-The following diagram maps IFTTT organizational and process concepts to ClubHouse features. This mapping provides a clear conceptual understanding of how we use ClubHouse to get work done at IFTTT.
+The following diagram maps IFTTT organizational and process concepts to Shortcut features. This mapping provides a clear conceptual understanding of how we use Shortcut to get work done at IFTTT.
 
 ![](https://lh5.googleusercontent.com/mAPpz-MU16a-WOUqAVsRbcl_O20_jAcmmeZe3p635VsHDTx9BuWBQqD3mGyA3t5sP8ScQdCcete45RmUG0Mn3vJHYZP2pvmvCNEFHT6TemlMI3iTjt8l_8IYAnIHZPyY_4ZlsEtK)
 
@@ -25,11 +25,11 @@ This diagram uses [Crow’s Foot Notation](https://en.wikipedia.org/wiki/Entity%
 * Iterations must be associated with one and only one team
 * Stories must belong to one and only one Project, Epic and Team
 
-Note: The above association rules are how IFTTT uses ClubHouse. In some cases ClubHouse will allow the above rules to be broken.
+Note: The above association rules are how IFTTT uses Shortcut. In some cases Shortcut will allow the above rules to be broken.
 
 ## Time View
 
-ClubHouse allows us to group and track Stories \(the work we do\) in many different ways. These groupings tend to fall into one of two categories:
+Shortcut allows us to group and track Stories \(the work we do\) in many different ways. These groupings tend to fall into one of two categories:
 
 * Timebox - A way to group Stories into a fixed chunk of time in which work is planned to be done.
   * Typically begins with a planning session and ends with a retrospective.
@@ -50,7 +50,7 @@ An Impact Cycle is a timebox that aims to consolidate and focus work on large in
 
 #### Epic \(Epic\)
 
-We use ClubHouse Epics as both a timebox as well as a workbox. An Epic is a group of related stories \(a workbox\) that has a start and end date \(a timebox\), though the start/end dates could be infinite.
+We use Shortcut Epics as both a timebox as well as a workbox. An Epic is a group of related stories \(a workbox\) that has a start and end date \(a timebox\), though the start/end dates could be infinite.
 
 #### Sprint \(Iteration\)
 

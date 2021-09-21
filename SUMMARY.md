@@ -1,11 +1,11 @@
 # Table of contents
 
 * [Overview](README.md)
-* [ClubHouse Teams](clubhouse-teams.md)
-* [ClubHouse Projects](clubhouse-projects.md)
-* [ClubHouse Milestones](clubhouse-milestones.md)
-* [ClubHouse Epics](clubhouse-epics.md)
-* [ClubHouse Iteration](clubhouse-sprint.md)
-* [ClubHouse Stories](clubhouse-stories.md)
+* [Shortcut Teams](clubhouse-teams.md)
+* [Shortcut Projects](clubhouse-projects.md)
+* [Shortcut Milestones](clubhouse-milestones.md)
+* [Shortcut Epics](clubhouse-epics.md)
+* [Shortcut Iteration](clubhouse-sprint.md)
+* [Shortcut Stories](clubhouse-stories.md)
 * [FAQ](faq.md)
 

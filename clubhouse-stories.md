@@ -1,8 +1,8 @@
-# ClubHouse Stories
+# Shortcut Stories
 
-## ClubHouse Story == IFTTT Story
+## Shortcut Story == IFTTT Story
 
-“Stories are the standard unit of work in Clubhouse. Stories are where collaboration and documentation for said unit of work happens.” - [ClubHouse](https://help.clubhouse.io/hc/en-us/articles/360016199771-What-is-a-Story-)
+“Stories are the standard unit of work in Shortcut. Stories are where collaboration and documentation for said unit of work happens.” - [Shortcut](https://help.shortcut.com/hc/en-us/articles/360016199771-What-is-a-Story-)
 
 Stories come in various flavors as indicated by the Type attribute:
 
@@ -16,7 +16,7 @@ Stories come in various flavors as indicated by the Type attribute:
   * Something old and/or busted that we can live with… but shouldn’t.
   * Typically originates in engineering
 
-### ClubHouse Story Rules
+### Shortcut Story Rules
 
 #### State
 

@@ -1,6 +1,6 @@
-# ClubHouse Projects
+# Shortcut Projects
 
-## ClubHouse Project == IFTTT Component or Service
+## Shortcut Project == IFTTT Component or Service
 
 “We recommend using Projects to represent key dimensions that exist within your organization or product, such as Functional Areas, Technical Components, or Product Features.”
 
@@ -10,7 +10,7 @@
 * Projects don't have a defined start or end date
   * IFTTT components, services and business functions are also eternal… at least until they’re not
 
-#### ClubHouse Project Rules
+#### Shortcut Project Rules
 
 * Projects should be scoped to very specific components, business functions or other high-level aspects of IFTTT
   * e.g. marketing, web, runtime, iOS, Android, support, design, etc.
