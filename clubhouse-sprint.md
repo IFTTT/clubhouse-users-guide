@@ -1,6 +1,6 @@
 # Shortcut Iteration
 
-## ClubHouse Iteration == IFTTT Sprint
+## Shortcut Iteration == IFTTT Sprint
 
 “An Iteration is a defined, time-boxed period of development for a collection of Stories.” - [Shortcut](https://help.shortcut.com/hc/en-us/articles/360028953452-Iterations-Overview)
 
